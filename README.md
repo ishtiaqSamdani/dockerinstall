@@ -1,6 +1,7 @@
 # dockerinstall
 
 '''
+
 #!/bin/bash
 
 docker -v
@@ -38,4 +39,5 @@ if command -v docker &>/dev/null; then
 else
     echo "installation failed!"
 fi
+
 '''
